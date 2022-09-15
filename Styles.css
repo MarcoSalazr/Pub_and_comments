@@ -1,0 +1,101 @@
+.custom-select {
+    text-align: center;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border-radius: 4px;
+    border: solid black;
+    padding: 8px 20px;
+}
+
+.ss {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.boton {
+    border: solid black;
+    border-radius: 4px;
+    padding: 8px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.boton:hover {
+    font-size: 18px;
+    border-color: blue;
+}
+
+.boton2 {
+    border: solid black;
+    border-radius: 3px;
+    padding: 5px 17px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14 px;
+    margin-top: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.boton2:hover {
+    font-size: 15px;
+}
+
+.stitle {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.rojo {
+    border: solid;
+    background-color: lightcoral;
+    border-color: red;
+}
+
+.azul {
+    border: solid;
+    background-color: lightskyblue;
+    border-color: darkblue;
+}
+
+.verde {
+    border: solid;
+    background-color: mediumaquamarine;
+    border-color: darkgreen;
+}
+
+.amarillo {
+    border: solid;
+    background-color: lightgoldenrodyellow;
+    border-color: yellow;
+}
+
+.negro {
+    border: solid;
+    background-color: rgb(238, 238, 238);
+    border-color: black;
+}
+
+.naranja {
+    border: solid;
+    background-color: rgb(227, 192, 95);
+    border-color: orange;
+}
+
+.padd {
+    padding: 10px;
+    width: 300px;
+}
+
+.bord {
+    margin: 10px;
+}
+
+.upcase {
+    text-transform: uppercase;
+}
